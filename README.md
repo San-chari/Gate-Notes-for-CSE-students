@@ -1,6 +1,7 @@
 🚀 Welcome to the Ultimate CSE & GATE Prep Party! 🎉
 
 Whether you're coding your way through college or solving complex problems for the GATE, your journey just got a whole lot more thrilling! Here's your all-access pass to the coolest resources that'll not only boost your brainpower but also keep the fun alive. Let’s kick off this digital adventure!
+![image](https://github.com/San-chari/Gate-Notes-for-CSE-students/assets/116729440/061a64b1-084e-4be2-9bdd-ff8be573d41e)
 
 📘 The Must-Have Textbook Playlist
 1. "Introduction to Algorithms" by Cormen & Co. - Think of it as the DJ of your algorithm party, dropping beats that get your problem-solving skills dancing!
